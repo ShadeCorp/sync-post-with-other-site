@@ -96,7 +96,7 @@ No. WPSiteSync for Content will just synchronize with the one Post content which
 
 = 1.4.1 - Jul 24, 2022 =
 * Fix: IFRAME issue.
-* Fix: Sync the corrent parent post.
+* Fix: Sync the correct parent post.
 
 = 1.4.2 - September 27, 2023 =
 * Fix: small errors
